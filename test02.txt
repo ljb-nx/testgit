@@ -5,9 +5,12 @@ github test
 
 lllllllllll
 ========================no.2 update=========
-git�ĳ�����ɾ��
+gitµÄ³·ÏúºÍÉ¾³ý
 
 ========================no.3 update
 git ver good.
 
 ========================no.4 update
+update test02
+网上
+========================no.5 update
